@@ -32,4 +32,4 @@ Ce projet est un module Odoo conçu pour pour la gestion simplifiée des réunio
 6. Allez dans **Applications**, recherchez "TP - Gestion des Réunions" et installez-le.
 
 ## Auteur
-- **Aya**
+- Aya Elhaydouni
